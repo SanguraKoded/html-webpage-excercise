@@ -1,0 +1,36 @@
+head{
+
+}
+h1 {
+  text-align: center;
+  color: #1F1553
+  }
+h2{
+  text-align: center;
+  color: #7FA51C
+}
+p{
+  text-align: left;
+  font-family: sans-serif;
+  font-size: 15
+}
+h1{
+  background-color: #7FA51C
+}
+h2{
+  background-color: #1F1553
+}
+img{
+
+}
+p{
+  line-height: normal;
+}
+ul{
+  color: red;
+  font-style: italic;
+}
+ol{
+  color: red;
+  font-style: italic;
+}
